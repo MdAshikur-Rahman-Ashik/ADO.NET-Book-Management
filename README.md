@@ -33,7 +33,7 @@
 <ol>
   <li>
     <strong>Clone the repository:</strong>
-    <pre><code>[ https://github.com/MdAshikur-Rahman-Ashik/ADO.NET-Book-Management.git](https://github.com/MdAshikur-Rahman-Ashik/ADO.NET-Book-Management)</code></pre>
+    <pre><code>https://github.com/MdAshikur-Rahman-Ashik/ADO.NET-Book-Management.git</code></pre>
   </li>
   <li>
     <strong>Open the project in Visual Studio:</strong>
